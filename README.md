@@ -4,7 +4,7 @@ A sleek, modern, and highly aesthetic Login Interface designed with the Glassmor
 
 Live Demo
 You can see the design in action here: 
-[INSERT YOUR GITHUB PAGES LINK HERE]
+https://makhalimahoward.github.io/Glassmorphism-Login-UI-Design/
 
 Features
 - Frosted Glass Effect: Achieved using CSS backdrop-filter.
@@ -22,5 +22,5 @@ To use this design in your own project:
 2. Open index.html in your browser.
 3. Feel free to customize the colors and blur intensity in style.css!
 
-Author
+Author:
 Howard Makhalima
