@@ -122,4 +122,23 @@ body {
             }
         }
     }
+
+}
+
+@media screen and (max-width:500px) {
+
+    body {
+        padding-inline: 2rem;
+    }
+
+    .wrapper {
+        padding-inline: 20px;
+
+        form {
+
+            .register-link {
+                scale: .8;
+            }
+        }
+    }
 }
